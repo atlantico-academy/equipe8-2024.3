@@ -1,14 +1,17 @@
-# <Título do projeto>
+# DataHeart
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
-## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
 
+### Desenvolvedores
+ - [Aline Sousa Lima](https://github.com/ninesousa)
+ - [Danielly Reis Dos Santos ](https://github.com/DaniellyR)
+ - [Francisco Rafael Braga De Lima](https://github.com/couldbeElex)
+ - [Juliana Sartori](https://github.com/VerseMM)
+ - [Lucas Moreira Nunes](https://github.com/lmnunes2002)
+ - [Maria Paula Da Silva Alves](https://github.com/mpaulas)
+
+
+<!-- Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 ---
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
@@ -110,4 +113,4 @@ Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize
 ├── README.md          # Informações gerais do projeto
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
-```
+``` -->
