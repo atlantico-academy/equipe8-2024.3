@@ -8,6 +8,9 @@ Ao longo do bootcamp, a equipe Data Heart ficou responsável pelo tratamento, ma
 
 O conjunto de dados Heart Disease Dataset é um conglomerado de dados de pacientes de outros cinco conjuntos de dados sobre doenças cardíacas de diferentes locais no mundo. Seu propósito inicial é reunir dados sobre determinadas condições de saúde relacionadas ao coração, possivelmente inferindo causas prováveis para determinadas patologias cardíacas. Dados como **pressão sanguínea em repouso**, **nível de colesterol** e **glicemia em jejum** podem ser encontrados no banco de dados; todos relevantes para possíveis inferências e diagnósticos de doenças cardíacas.
 
+> [!IMPORTANT]
+> Aqui entra o Graphical Abstract do Dataset. Quando tivermos um.
+
 ## A equipe
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/img/logo_dark.png">
