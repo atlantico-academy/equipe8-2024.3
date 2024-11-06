@@ -1,8 +1,10 @@
 # Análise: Heart Disease Dataset
 
+Durante o Bootcamp Avanti 2024.3, a equipe Data Heart recebeu como desafio o conjunto de dados [Heart Disease Dataset](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset), que combina cinco conjuntos de dados populares de doenças cardíacas. 
 
+Ao longo do bootcamp, a equipe Data Heart ficou responsável pelo tratamento, manipulação, entendimento e visualização do dataset, a fim de melhor compreender os dados disponíveis e trazer insights valiosos que podem ser inferidos através do estudo do conjunto.
 
-## Equipe: Data Heart
+## A equipe
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/img/logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/img/logo_light.png">
