@@ -8,31 +8,42 @@
   </picture>
 </p>
 
-- [Aline Sousa Lima](https://github.com/ninesousa)
-- [Danielly Reis Dos Santos](https://github.com/DaniellyR)
-- [Francisco Rafael Braga De Lima](https://github.com/couldbeElex)
-- [Juliana Sartori](https://github.com/VerseMM)
-- [Lucas Moreira Nunes](https://github.com/lmnunes2002)
-- [Maria Paula Da Silva Alves](https://github.com/mpaulas)
+## Analise e predição de doenças cardíacas
 
----
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
+commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
-# Análise: Heart Disease Dataset
+## Justificativa
 
-O conjunto de dados Heart Disease Dataset é um conglomerado de dados de pacientes de outros cinco conjuntos de dados sobre doenças cardíacas de diferentes locais no mundo. Seu propósito inicial é reunir dados sobre determinadas condições de saúde relacionadas ao coração, possivelmente inferindo causas prováveis para determinadas patologias cardíacas. Dados como **pressão sanguínea em repouso**, **nível de colesterol** e **glicemia em jejum** podem ser encontrados no banco de dados; todos relevantes para possíveis inferências e diagnósticos de doenças cardíacas.
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
+commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-> [!IMPORTANT]
-> Aqui entra o Graphical Abstract do Dataset. Quando tivermos um.
+## Metodologia
 
----
+A metodologia que será adotada para a análise e predição de doenças cardíacas segue o ciclo CRISP-DM (Cross Industry Standard Process for Data Mining), um processo estruturado amplamente utilizado em projetos de mineração de dados e análise preditiva. O CRISP-DM é composto por:
+1. Entendimento de negócio
+2. Entendimento de dados
+3. Preparação dos dados
+4. Modelagem
 
-## Sumário de entregas:
+O projeto também é dividido em duas entregas, a saber:
 
-Etapa 01:
-- [x] #1
-- [ ] #3
-- [ ] #4
-- [ ] #5
+1. Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
+2. Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
 
----
 
+## Resultados Esperados
+
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
+commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+### Desenvolvedores
+ - [Aline Sousa Lima](https://github.com/ninesousa)
+ - [Danielly Reis Dos Santos ](https://github.com/DaniellyR)
+ - [Francisco Rafael Braga De Lima](https://github.com/couldbeElex)
+ - [Juliana Sartori](https://github.com/VerseMM)
+ - [Lucas Moreira Nunes](https://github.com/lmnunes2002)
+ - [Maria Paula Da Silva Alves](https://github.com/mpaulas)
