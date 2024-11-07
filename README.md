@@ -18,7 +18,7 @@ commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum
 
 ## Metodologia
 
-A metodologia que será adotada para a análise e predição de sobrevivência no Titanic segue o ciclo CRISP-DM (Cross Industry Standard Process for Data Mining), um processo estruturado amplamente utilizado em projetos de mineração de dados e análise preditiva. O CRISP-DM é composto por:
+A metodologia que será adotada para a análise e predição de doenças cardíacas segue o ciclo CRISP-DM (Cross Industry Standard Process for Data Mining), um processo estruturado amplamente utilizado em projetos de mineração de dados e análise preditiva. O CRISP-DM é composto por:
 1. Entendimento de negócio
 2. Entendimento de dados
 3. Preparação dos dados
