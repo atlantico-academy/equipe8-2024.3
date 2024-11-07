@@ -1,6 +1,44 @@
-# DataHeart
+<h1 style="text-align: center;">DataHeart</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZtwK6jY.png" alt="logo da pesquisa">
+</p>
+
+## Analise e Predição de doenças cardíacas
+
+<p align="center">
+  <img src="https://i.imgur.com/5iXz4F2.png" alt="gráficos da pesquisa">
+</p>
+
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
+commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+
+## justificativa
+
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
+commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+## Metodologia
+
+A metodologia que será adotada para a análise e predição de sobrevivência no Titanic segue o ciclo CRISP-DM (Cross Industry Standard Process for Data Mining), um processo estruturado amplamente utilizado em projetos de mineração de dados e análise preditiva. O CRISP-DM é composto por:
+1. Entendimento de negócio
+2. Entendimento de dados
+3. Preparação dos dados
+4. Modelagem
+
+O projeto também é dividido em duas entregas, a saber:
+
+1. Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
+2. Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
 
 
+## Resultados Esperados
+
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
+commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ### Desenvolvedores
  - [Aline Sousa Lima](https://github.com/ninesousa)
