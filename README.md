@@ -1,4 +1,10 @@
-# <Título do projeto>
+
+## Resultados Esperados
+
+Esperamos descrever algumas das principais variáveis ligadas ao risco de doenças cardíacas e desenvolver um modelo preditivo capaz de estimar a probabilidade de um paciente desenvolver essas condições com base nos dados fornecidos. O projeto incluirá a geração de gráficos, proporcionando uma visão mais clara das relações entre diferentes fatores e a saúde cardiovascular.
+
+
+<!-- # <Título do projeto>
 
 Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
@@ -111,3 +117,4 @@ Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+-->
