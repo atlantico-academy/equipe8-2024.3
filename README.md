@@ -1,7 +1,24 @@
+<h1 style="text-align: center;">DataHeart</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZtwK6jY.png" alt="logo da pesquisa">
+</p>
+
 
 ## Resultados Esperados
 
 Esperamos descrever algumas das principais variáveis ligadas ao risco de doenças cardíacas e desenvolver um modelo preditivo capaz de estimar a probabilidade de um paciente desenvolver essas condições com base nos dados fornecidos. O projeto incluirá a geração de gráficos, proporcionando uma visão mais clara das relações entre diferentes fatores e a saúde cardiovascular.
+
+
+### Desenvolvedores
+ - [Aline Sousa Lima](https://github.com/ninesousa)
+ - [Danielly Reis Dos Santos ](https://github.com/DaniellyR)
+ - [Francisco Rafael Braga De Lima](https://github.com/couldbeElex)
+ - [Juliana Sartori](https://github.com/VerseMM)
+ - [Lucas Moreira Nunes](https://github.com/lmnunes2002)
+ - [Maria Paula Da Silva Alves](https://github.com/mpaulas)
+
+
 
 
 <!-- # <Título do projeto>
