@@ -6,7 +6,7 @@
 4,cholesterol,Colesterol,Quantitativa,Contínua
 5,fasting blood sugar,Açúcar no sangue em jejum,Qualitativa,Nominal
 6,resting ecg,Eletrocardiograma em repouso,Qualitativa,Nominal
-7,max heart rate,Frequência cardíaca máxima,Quantitativa,Discreta
+7,max heart rate,Frequência cardíaca máxima,Quantitativa,Contínua
 8,exercise angina,Angina induzida por exercício,Qualitativa,Nominal
 9,oldpeak,Depressão do segmento ST,Quantitativa,Contínua
 10,ST slope,Inclinação do Segmento ST no Pico do Exercício,Qualitativa,Ordinal
