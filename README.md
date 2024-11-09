@@ -38,12 +38,9 @@ O projeto também é dividido em duas entregas, a saber:
 1. Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
 2. Análise comparativa de modelos: construção de modelos de aprendizado de máquina para rpevisão de consumo, com métricas de desempenho para avaliação da performance.
 
-
 ## Resultados Esperados
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
-commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Esperamos descrever algumas das principais variáveis ligadas ao risco de doenças cardíacas e desenvolver um modelo preditivo capaz de estimar a probabilidade de um paciente desenvolver essas condições com base nos dados fornecidos. O projeto incluirá a geração de gráficos, proporcionando uma visão mais clara das relações entre diferentes fatores e a saúde cardiovascular.
 
 ### Desenvolvedores
  - [Aline Sousa Lima](https://github.com/ninesousa)
