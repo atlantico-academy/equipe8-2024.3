@@ -10,9 +10,7 @@
 
 ## Analise e predição de doenças cardíacas
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
-commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Este projeto tem como objetivo realizar uma predição de ocorrência de doenças cardiovasculares, utilizando o princípio de dummy-encoding para detectar a presença ou ausência dessas enfermidades, utilizando esses dados em um modelo de aprendizagem de maquina, que foi treinado com o objetivo de prever essas condições cardíacas de acordo com os atributos-chave. O DataSet utilizado contém informações de quatro bases de dados, fazendo um levantamento de pacientes da Hungria e Suíça, e de duas cidades americanas, Cleveland e Long Beach, contando com os 12 atributos. Foi realizado o levantamento da idade, sexo, tipos de dores no peito (4 valores), colesterol por miligrama em um decilítro de sange, níveis de açucar no sangue durante o jejum, resultados do eletrocardiograma em repouso (0,1,2), registro do batimento cardíaco máximo, angina induzido por exercício físico, depressão do segmento ST do eletrocardiograma, inclinação do segmento ST no seu ponto de exercício máximo, o número de vasos principais (0-3) coloroido por fluoroscopia e a Thalassemia - Thal, 0 = Normal, 1 = Defeito fixo e 2 = Defeito reversível.
 
 ## Justificativa
 
