@@ -21,7 +21,7 @@ o número de vasos principais (0-3) coloroido por fluoroscopia e a Thalassemia -
 
 ## Justificativa
 
- 
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
 commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -51,5 +51,4 @@ commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum
  - [Francisco Rafael Braga De Lima](https://github.com/couldbeElex)
  - [Juliana Sartori](https://github.com/VerseMM)
  - [Lucas Moreira Nunes](https://github.com/lmnunes2002)
->>>>>>> 384f6a1bada5d92d2fde502728f82c7d41ac3213
  - [Maria Paula Da Silva Alves](https://github.com/mpaulas)
