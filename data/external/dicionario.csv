@@ -1,13 +1,13 @@
 ,variavel,descrição,tipo,subtipo
-0,age,Idade,Quantitativo,Discreta
-1,sex,Sexo,Qualitativo,Nominal
-2,chest pain type,Tipo de dor no peito,Qualitativo,Ordinal
-3,resting bp s,Pressão arterial em repouso,Quantitativo,Contínua
-4,cholesterol,Colesterol,Quantitativo,Contínua
-5,fasting blood sugar,Açúcar no sangue em jejum,Qualitativo,Nominal
-6,resting ecg,Eletrocardiograma em repouso,Qualitativo,Nominal
-7,max heart rate,Frequência cardíaca máxima,Quantitativo,Contínua
-8,exercise angina,Angina induzida por exercício,Qualitativo,Nominal
-9,oldpeak,Depressão do segmento ST,Quantitativo,Contínua
-10,ST slope,Inclinação do Segmento ST no Pico do Exercício,Qualitativo,Ordinal
-11,target,Alvo,Qualitativo,Nominal
+0,age,Idade,Quantitativa,Discreta
+1,sex,Sexo,Qualitativa,Nominal
+2,chest pain type,Tipo de dor no peito,Qualitativa,Ordinal
+3,resting bp s,Pressão arterial em repouso,Quantitativa,Contínua
+4,cholesterol,Colesterol,Quantitativa,Contínua
+5,fasting blood sugar,Açúcar no sangue em jejum > 120mg/dl,Qualitativa,Nominal
+6,resting ecg,Eletrocardiograma em repouso,Qualitativa,Nominal
+7,max heart rate,Frequência cardíaca máxima,Quantitativa,Contínua
+8,exercise angina,Angina induzida por exercício,Qualitativa,Nominal
+9,oldpeak,Depressão do segmento ST,Quantitativa,Contínua
+10,ST slope,Inclinação do Segmento ST no Pico do Exercício,Qualitativa,Ordinal
+11,target,Alvo,Qualitativa,Nominal
