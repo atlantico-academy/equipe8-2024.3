@@ -21,9 +21,7 @@ o número de vasos principais (0-3) coloroido por fluoroscopia e a Thalassemia -
 
 ## Justificativa
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
-commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Este projeto tem como objetivo identificar os principais fatores de risco relacionados às doenças cardíacas, utilizando técnicas de análise exploratória e preditiva para detectar indivíduos em risco de forma precoce. Busca-se fornecer insights que possam apoiar médicos e gestores de saúde no desenvolvimento de intervenções mais eficazes, promovendo diagnósticos rápidos, tratamentos personalizados e redução dos custos associados a estágios avançados da doença.
 
 ## Metodologia
 
